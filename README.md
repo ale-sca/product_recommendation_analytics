@@ -48,6 +48,7 @@ Then open the local URL shown in your terminal.
 * Python
 * Streamlit
 * Pandas / NumPy
+* dbt models
 
 ---
 
