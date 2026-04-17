@@ -19,7 +19,9 @@ A Streamlit app that evaluates how product recommendations impact **customer ret
 * Measures impact on:
 
   * Retention
-  * Customer Lifetime Value (CLV)
+  * Trends in the number of repeated purchases/customers.
+  * Average basket size per cohort.
+  
 * Uses the Olist public dataset for realistic scenarios
 
 ---
